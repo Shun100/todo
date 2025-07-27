@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"JAVA_HOME": "C:/ForDevelop/JDK/jdk-17.0.2",
+      "PATH": "C:/ForDevelop/JDK/jdk-17.0.2/bin;C:/ForDevelop/maven/apache-maven-3.9.9/bin;C:/Program Files/Git/bin",
+      "CATALINA_HOME": "C:/ForDevelop/apache-tomcat/apache-tomcat-10.1.29"
+		},
+		"rsp-ui.rsp.java.home": "C:/ForDevelop/JDK/jdk-17.0.2",
+		"rsp-ui.enableStartServerOnActivation": [
+			{
+				"id": "redhat.vscode-community-server-connector",
+				"name": "Community Server Connector",
+				"startOnActivation": true
+			}
+		],
+		"emmet.includeLanguages": {
+			"jsp": "html"
+		},
+		"java.compile.nullAnalysis.mode": "automatic",
+		"editor.tabSize": 2,
+		"editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
